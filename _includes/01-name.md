@@ -1,1 +1,6 @@
-Replace this with your name, and include a header.
+# Chhay Than Chhhour's Portfolio 
+## Here is what I am currently learning
+* HTML
+* CSS
+* Markdown
+* Github
