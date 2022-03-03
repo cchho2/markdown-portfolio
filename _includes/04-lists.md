@@ -1,1 +1,8 @@
-Replace this with a list of your favorite things.
+My favorite things:
+* Soccer
+* Coding
+* Money
+* Food
+* Comfy bed
+* Sleep
+* Working out
